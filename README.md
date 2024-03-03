@@ -12,4 +12,4 @@ But what sets our model apart?
 
     -> Reliable Results: Gives considerable predictions well based on the trends of the stock prices from the specific broker.
 
-    -> Flexible and Adaptable: It's flexible, adaptable, and tailored to suit your needs. If you want to analysize the stock prices of Reliance , it's got it! ITC? We've got it!
+    -> Flexible and Adaptable: It's flexible, adaptable, and tailored to suit your needs. If you want to analysize the stock prices of Reliance , it's got it! ITC?  it's got it!
