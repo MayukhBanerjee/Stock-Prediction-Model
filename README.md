@@ -1,4 +1,4 @@
-Ever wondered how investors predict stock prices? Say hello to our groundbreaking solution—a sophisticated algorithm that forecasts stock movements with remarkable accuracy, even if you're not a finance expert!
+Ever wondered how investors predict stock prices? Say hello to our groundbreaking solution—a sophisticated algorithm that forecasts stock movements, even if you're not a finance expert!
 
 Here's how it works:
 
