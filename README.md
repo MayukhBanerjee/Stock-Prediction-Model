@@ -10,8 +10,6 @@ Here's how it works:
 
 But what sets our model apart?
 
-    -> Easy to Use: You don't need a degree in finance to use our model. With user-friendly interfaces and straightforward instructions, anyone can tap into the power of stock prediction.
-
-    -> Reliable Results: Our model isn't just a shot in the dark. Backed by rigorous testing and validation, it consistently delivers reliable results, giving investors the confidence to navigate the stock  market.
+    -> Reliable Results: Gives considerable predictions well based on the trends of the stock prices from the specific broker.
 
     -> Flexible and Adaptable: Whether you're tracking a single stock or exploring multiple investment opportunities, our model can handle it all. It's flexible, adaptable, and tailored to suit your needs.
