@@ -6,10 +6,10 @@ Here's how it works:
 
     -> Unlocking Hidden Insights: Using a cutting-edge technique called Artificial Neural Networks (ANN), our model digs deep into the data to uncover hidden insights. Think of it as a super-smart detective, piecing together clues from past stock prices to anticipate future trends.
 
-    -> Predicting Tomorrow's Moves: Armed with its learnings, our model predicts the future—quite literally! It can forecast how a stock might rise or fall, helping investors make informed decisions about buying or selling.
+    -> Predicting Tomorrow's Moves: Armed with its learnings! It can forecast how a stock might rise or fall, helping investors make informed decisions about buying or selling.
 
 But what sets our model apart?
 
     -> Reliable Results: Gives considerable predictions well based on the trends of the stock prices from the specific broker.
 
-    -> Flexible and Adaptable: Whether you're tracking a single stock or exploring multiple investment opportunities, our model can handle it all. It's flexible, adaptable, and tailored to suit your needs.
+    -> Flexible and Adaptable: It's flexible, adaptable, and tailored to suit your needs. If you want to analysize the stock prices of Reliance , it's got it! ITC? We've got it!
